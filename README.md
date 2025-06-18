@@ -1,5 +1,3 @@
-Segue o bloco em Markdown para incluir como entrada de **prior art** no seu README:
-
 ```markdown
 ## Teoria do Colapso das Forças Estruturais (TCFE): QUANTUM — Prior Art
 
