@@ -21,6 +21,8 @@ O documento aqui depositado foi assinado digitalmente via ICP-Brasil, com integr
 
 DOI
 10.5281/zenodo.15691272
+DOI
+10.5281/zenodo.15687587
  
 **GitHub (prior art repository):**  
 https://github.com/romulosantoss7/TCFE-QUANTUM.git
