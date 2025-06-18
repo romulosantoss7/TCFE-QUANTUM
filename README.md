@@ -15,6 +15,8 @@ A análise resultou em uma lei empírica polinomial para colapso quântico (Prob
 O documento aqui depositado foi assinado digitalmente via ICP-Brasil, com integridade garantida pelo hash SHA256. Este conteúdo constitui publicação pública de anterioridade técnica e teórica (prior art), protegendo sua originalidade, autoria e formulação em âmbito internacional.
 
 **SHA256 do PDF assinado:**  
+`85889f0cde4d3098832841842487df92aa0c48572a6b511a9dc2ea9927205cf4`
+**SHA256 do PDF assinado:**  
 `179cd9d4f0809ccbd4cbd5d5baef1759b167997196cc84759848232420d144d1`
 
 **GitHub (prior art repository):**  
