@@ -19,6 +19,9 @@ O documento aqui depositado foi assinado digitalmente via ICP-Brasil, com integr
 **SHA256 do PDF assinado:**  
 `179cd9d4f0809ccbd4cbd5d5baef1759b167997196cc84759848232420d144d1`
 
+DOI
+10.5281/zenodo.15691272
+ 
 **GitHub (prior art repository):**  
 https://github.com/romulosantoss7/TCFE-QUANTUM.git
 
